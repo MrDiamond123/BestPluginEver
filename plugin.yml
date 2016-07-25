@@ -1,0 +1,5 @@
+ name: DiamondJoinEvent
+ version: 1.0
+ main: main.Main
+ description: Best Plugin Ever
+ commands:
